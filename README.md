@@ -1,4 +1,4 @@
 # todo_list
 
-A simples APP builded in Flutter to control daily tasks.
+A simple APP builded in Flutter to control daily tasks.
 
